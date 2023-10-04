@@ -1,27 +1,17 @@
 ---
 
 import { projects } from '../../config/projects.json'
+import CardProject from '../CardProject.astro';
 
 ---
 
-<section class="flex flex-col justify-center items-center">
-    <h2 class=" font-bold text-5xl my-5">Projects</h2>
+<section class="flex flex-col justify-center items-cente text-center my-10">
+    <h2 class="font-bold text-5xl my-10">Projects</h2>
 
-    <div class="flex flex-col justify-center items-center">
+    <div class="flex flex-col gap-28">
         {
-            projects.map((project)=> (
-                <div class="flex flex-col mb-2 md:flex-row text-center md:text-left">
-                    <div class="flex-1 p-4">
-                        <h2 class="font-bold text-2xl my-4">{project.title}</h2>
-                        <p class="my-2">{project.description}</p>
-                        <button class=" bg-indigo-500 px-3 py-2 hover:bg-indigo-400">
-                            More info
-                        </button>
-                    </div>
-                    <div class="flex-1">
-                        <img src={project.image} alt="project" class="w-72 m-auto" />
-                    </div>
-                </div>
+            projects.map((project) => (
+                <CardProject title={project.title} description={project.description} image={project.image} />
             ))
         }
     </div>

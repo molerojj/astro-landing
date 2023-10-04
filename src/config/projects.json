@@ -1,20 +1,20 @@
 {
     "projects": [
         {
-            "title": "Farm Land 1",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ullam reprehenderit, esse id possimus voluptatibus non nobis quo explicabo est nisi expedita autem sequi suscipit sunt inventore distinctio optio vitae, dolorem animi quod ex consequuntur minus exercitationem. Maxime recusandae quia consequuntur libero assumenda dolorem ullam. Necessitatibus aliquam impedit quidem aperiam!",
-            "image": "images/fingerprint.svg"
+            "title": "Farm Landing",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ullam reprehenderit, esse id possimus voluptatibus non nobis quo explicabo est nisi expedita autem sequi suscipit sunt inventore distinctio optio vitae.",
+            "image": "images/farm.svg"
             
         },
         {
-            "title": "Farm Land 2",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ullam reprehenderit, esse id possimus voluptatibus non nobis quo explicabo est nisi expedita autem sequi suscipit sunt inventore distinctio optio vitae, dolorem animi quod ex consequuntur minus exercitationem. Maxime recusandae quia consequuntur libero assumenda dolorem ullam. Necessitatibus aliquam impedit quidem aperiam!",
-            "image": "images/fingerprint.svg"
+            "title": "Shipping Landing",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ullam reprehenderit, esse id possimus voluptatibus non nobis quo explicabo est nisi expedita autem sequi suscipit sunt inventore distinctio optio vitae.",
+            "image": "images/shipping.svg"
         },
         {
-            "title": "Farm Land 3",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ullam reprehenderit, esse id possimus voluptatibus non nobis quo explicabo est nisi expedita autem sequi suscipit sunt inventore distinctio optio vitae, dolorem animi quod ex consequuntur minus exercitationem. Maxime recusandae quia consequuntur libero assumenda dolorem ullam. Necessitatibus aliquam impedit quidem aperiam!",
-            "image": "images/fingerprint.svg"
+            "title": "Wedding Landing",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ullam reprehenderit, esse id possimus voluptatibus non nobis quo explicabo est nisi expedita autem sequi suscipit sunt inventore distinctio optio vitae.",
+            "image": "images/wedding.svg"
         }
     ]
 }
